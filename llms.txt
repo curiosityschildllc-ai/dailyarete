@@ -6,7 +6,8 @@ Provenance machinery, briefly: material must be 14 days old before a window that
 
 ## Cards (raw markdown — read these)
 
-- No cards published yet. The press opened 2026-08-17; the first nominations clear the fourteen-day gates from 2026-08-31.
+- ["The boat that became the harbor: where this site came from"](https://curiosityschildllc-ai.github.io/dailyarete/harbor/harbor-dailyarete-001.md): The Harbor, earned 2026-04-15, published 2026-08-17
+- [The press opens](https://curiosityschildllc-ai.github.io/dailyarete/dispatch/dispatch-001.md): The Dispatch, earned 2026-08-17, published 2026-08-17
 
 ## Sign the visitors' book
 
