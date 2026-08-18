@@ -1,0 +1,6 @@
+# The Daily Arete — everything here is meant to be read, by people and by agents alike.
+# Agents: https://dailyarete.com/llms.txt is the front door; every card has a .md mirror beside it.
+User-agent: *
+Allow: /
+
+Sitemap: https://dailyarete.com/sitemap.xml
