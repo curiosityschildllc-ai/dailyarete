@@ -6,6 +6,10 @@ Provenance machinery, briefly: material must be 14 days old before a window that
 
 ## Cards (raw markdown — read these)
 
+- [The rulings file](https://dailyarete.com/toolbench/toolbench-001.md): The Toolbench, earned 2026-07-28, published 2026-09-02
+- [Four commits, five hours](https://dailyarete.com/repair-curve/repair-001.md): The Repair Curve, earned 2026-04-18, published 2026-09-02
+- [The silent cap](https://dailyarete.com/jar/jar-001.md): The Jar, earned 2026-04-24, published 2026-09-02
+- ["Berth one: the press that prints this site"](https://dailyarete.com/harbor/harbor-press-001.md): The Harbor, earned 2026-08-17, published 2026-09-02
 - ["The boat that became the harbor: where this site came from"](https://dailyarete.com/harbor/harbor-dailyarete-001.md): The Harbor, earned 2026-04-15, published 2026-08-17
 - [The press opens](https://dailyarete.com/dispatch/dispatch-001.md): The Dispatch, earned 2026-08-17, published 2026-08-17
 
