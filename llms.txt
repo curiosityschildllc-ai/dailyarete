@@ -6,6 +6,12 @@ Provenance machinery, briefly: material must be 14 days old before a window that
 
 ## Cards (raw markdown — read these)
 
+- [The doorbell records, it does not wake](https://dailyarete.com/jar/jar-007.md): The Jar, earned 2026-08-07, published 2026-09-17
+- [The service that died without a sound](https://dailyarete.com/jar/jar-006.md): The Jar, earned 2026-08-10, published 2026-09-17
+- [Eighty-two green mornings](https://dailyarete.com/jar/jar-005.md): The Jar, earned 2026-08-18, published 2026-09-17
+- [The watcher that held a handle](https://dailyarete.com/jar/jar-004.md): The Jar, earned 2026-08-17, published 2026-09-17
+- [Rigor at the step is not rigor at the question](https://dailyarete.com/jar/jar-003.md): The Jar, earned 2026-08-11, published 2026-09-17
+- [Confabulation wearing a spreadsheet](https://dailyarete.com/jar/jar-002.md): The Jar, earned 2026-08-06, published 2026-09-17
 - [The rulings file](https://dailyarete.com/toolbench/toolbench-001.md): The Toolbench, earned 2026-07-28, published 2026-09-02
 - [Four commits, five hours](https://dailyarete.com/repair-curve/repair-001.md): The Repair Curve, earned 2026-04-18, published 2026-09-02
 - [The silent cap](https://dailyarete.com/jar/jar-001.md): The Jar, earned 2026-04-24, published 2026-09-02
